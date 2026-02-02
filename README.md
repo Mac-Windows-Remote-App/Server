@@ -59,7 +59,6 @@ JSON
     "os": "macOS",
     "role": "CONTROLLER", // 제어 주체(Controller) vs 대상(Target)
     "resolution": { "width": 2560, "height": 1600 },
-    "auth_token": "secure_token_here"
   }
 }
 ```
